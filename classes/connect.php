@@ -3,10 +3,10 @@
 // Create connection
 class Database
 {
-    private $host = "db4free.net";
-    private $username = "kousicreddy2211";
-    private $password = "kousicreddy2211A!";
-    private $db = "kousicreddy";
+    private $host = "<DATABASEHOST>";
+    private $username = "<DATABASE USERNAME>";
+    private $password = "<DATABASE PASSWORD>";
+    private $db = "dATABASE NAME";
 
     function connect(){
       $connection = mysqli_connect($this->host, $this->username, $this->password, $this->db);
