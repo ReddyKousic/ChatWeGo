@@ -47,10 +47,9 @@ $error = "";
           
           <p id="h66"><?php echo($error); ?></p>
           <style>#h66{color: white;}</style>
-  </form>
+        </form>
   <p id="h66">Don't have an account. <a href="/signup">Click Here </a>to create one.</p>
-</div>
-        
+      </div>        
         <script src="" async defer></script>
     </body>
 </html>
