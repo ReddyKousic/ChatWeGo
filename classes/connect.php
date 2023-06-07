@@ -6,7 +6,7 @@ class Database
     private $host = "<DATABASEHOST>";
     private $username = "<DATABASE USERNAME>";
     private $password = "<DATABASE PASSWORD>";
-    private $db = "dATABASE NAME";
+    private $db = "<DATABASE NAME>";
 
     function connect(){
       $connection = mysqli_connect($this->host, $this->username, $this->password, $this->db);
