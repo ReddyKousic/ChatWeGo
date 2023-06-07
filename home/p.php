@@ -20,7 +20,6 @@
         font-weight: 700;
         color: white;        
         border-radius: 3.5px;
-
     }@import url('https://fonts.googleapis.com/css2?family=Ysabeau&display=swap');
     #xdvi2{
         height: fit-content;
@@ -29,12 +28,8 @@
         background-color: rgba(0, 255, 72,0.666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666);
         border-radius: 15px;
         font-size: 20;
-        
-
-
     }
-    #dvi11{
-        
+    #dvi11{        
         width: 100%;
         height: fit-content;
         padding: 5px;
@@ -44,10 +39,8 @@
         margin-bottom: 1.5vh;
         border-radius: 3.5px;
         color: whitesmoke;
-
     }
 </style>
-
 <div id = "xvd1">
     <div id="dvi1">
         <?php echo $post['user']; ?>
