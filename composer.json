@@ -1,0 +1,20 @@
+{
+  "name": "ReddyKousic/ChatWeGo",
+  "description": "",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kousic",
+      "email": "Kousicreddy39@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "YourNamespace\\Framework\\": "./"
+    }
+  },
+  "require": {},
+  "require-dev": {},
+  "minimum-stability": "dev"
+}
